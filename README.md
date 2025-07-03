@@ -87,7 +87,7 @@ These repos contain notes, code examples, and Colab notebooks from studying majo
 
 ---
 
-## 📝 Articles & Blog Posts
+<!--''' ## 📝 Articles & Blog Posts
 
 *(Add your favorite articles here! For example:)*
 
@@ -95,7 +95,8 @@ These repos contain notes, code examples, and Colab notebooks from studying majo
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)  
 - [Andrew Ng’s Machine Learning Notes](https://www.andrewng.org/)
 
----
+- 
+-->.
 
 ## ✨ How to Use This Repository
 
